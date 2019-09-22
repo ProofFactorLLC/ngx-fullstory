@@ -1,6 +1,6 @@
 {
   "name": "ngx-fullstory",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A FullStory wrapper for Angular 6+",
   "main": "index.js",
   "scripts": {
